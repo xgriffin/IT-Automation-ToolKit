@@ -1,0 +1,9 @@
+# Script output (may contain temp passwords or device data)
+output/
+*.log
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+.env

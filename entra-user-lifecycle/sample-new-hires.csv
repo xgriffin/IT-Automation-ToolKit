@@ -1,0 +1,4 @@
+FirstName,LastName,Department,JobTitle,OfficeLocation,UsageLocation,ManagerUpn,Groups,LicenseSku
+Jordan,Reyes,Operations,Production Supervisor,Plant 1,US,ops.manager@contoso.com,All Staff;Operations;VPN Users,O365_BUSINESS_PREMIUM
+Avery,Nguyen,Finance,Staff Accountant,HQ,US,finance.director@contoso.com,All Staff;Finance,O365_BUSINESS_PREMIUM
+María-José,O'Brien,Quality,Quality Technician,Plant 1,US,quality.lead@contoso.com,All Staff;Quality,O365_BUSINESS_ESSENTIALS
